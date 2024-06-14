@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile
-
-Hi, I'm Ahmed Samir!
+# Hey 👋, I'm Ahmed Samir!
 
 ## About Me
 
