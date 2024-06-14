@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Hey 👋, I'm Ahmed Samir!
+=======
+Hey 👋, I'm Ahmed Samir!
+>>>>>>> 59000e0b2d7994714a4ce4e70839067d6d6c0dfd
 
 ## About Me
 
