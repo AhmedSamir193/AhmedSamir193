@@ -1,4 +1,4 @@
-Hi 👋, I'm Ahmed Samir!
+Hey 👋, I'm Ahmed Samir!
 
 ## About Me
 
